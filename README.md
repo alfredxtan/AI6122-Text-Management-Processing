@@ -1,2 +1,3 @@
-# AI6122-Text-Management-Processing
-Elective module for MSAI
+This repository consists of the codes and final report of one group project. 
+
+The first part of the project requires us to perform preprocessing on texts from three different domains, and analyze the resulting preprocessed texts. The second part of the project requires us to build a search engine -- including both the indexing and querying of documents -- on top of the bibliographic information from DBLP. Then, using the search engine, we were supposed to analyze the trend in one publication, capturing the trending topic across the years in the publication.  Finally, we have to devise a simple application based on the DBLP dataset.
